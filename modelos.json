@@ -1,0 +1,6 @@
+{
+    "Chevrolet": ["Spark", "Sonic", "Cruze", "Equinox"],
+    "Ford": ["Fiesta", "Focus", "Mustang", "Explorer"],
+    "Nissan": ["Versa", "Sentra", "Altima", "Rogue"],
+    "Toyota": ["Yaris", "Corolla", "Camry", "RAV4"]
+}
