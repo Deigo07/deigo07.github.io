@@ -1,7 +1,7 @@
 // Agregar cualquier código JavaScript necesario aquí
 // Por ejemplo, código para validar el formulario antes de enviar la denuncia
 
-/ Cargar el archivo marcas.json
+// Cargar el archivo marcas.json
 fetch('marcas.json')
   .then(response => response.json())
   .then(marcas => {
