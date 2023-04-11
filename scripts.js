@@ -1,7 +1,20 @@
 // Agregar cualquier código JavaScript necesario aquí
 // Por ejemplo, código para validar el formulario antes de enviar la denuncia
 
-
+/ Cargar el archivo marcas.json
+fetch('marcas.json')
+  .then(response => response.json())
+  .then(marcas => {
+    // Obtener el elemento select y agregar las opciones de las marcas
+    const selectMarca = document.getElementById('marca');
+    marcas.forEach(marca => {
+      const option = document.createElement('option');
+      option.value = marca;
+      option.text = marca;
+      selectMarca.appendChild(option);
+    });
+  })
+  .catch(error => console.error('Error al cargar el archivo marcas.json', error));
 // Cargar el archivo marcas.json y modelos.json con lógica para filtrar al momento de seleccionar una marca
 const marcas = document.getElementById('marca');
 const modelos = document.getElementById('modelo');
