@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Formulario de denuncia de vehículos</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Formulario de denuncia de vehículos</h1>
+    </header>
+    <main>
+      <section>
+        <form>
+          <label for="marca">Marca:</label>
+          <select id="marca" name="marca" required></select>
+          <label for="modelo">Modelo:</label>
+          <input type="text" id="modelo" name="modelo" required>
+          <label for="placa">Número de placa:</label>
+          <input type="text" id="placa" name="placa" required>
+          <label for="fecha">Fecha y hora de la denuncia:</label>
+          <input type="datetime-local" id="fecha" name="fecha" required>
+          <label for="info">Información adicional:</label>
+          <textarea id="info" name="info"></textarea>
+          <button type="submit">Enviar denuncia</button>
+        </form>
+      </section>
+    </main>
+    <script src="scripts.js"></script>
+  </body>
+</html>
