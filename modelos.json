@@ -1,0 +1,171 @@
+{
+    "Alfa Romeo": [
+      "Giulia",
+      "Stelvio",
+      "Tonale",
+      "Giulietta",
+      "4C Spider"
+    ],
+    "Audi": [
+      "Q3",
+      "Q5",
+      "Q2",
+      "A3",
+      "A4"
+    ],
+    "BMW": [
+      "Serie 3",
+      "Serie 5",
+      "X1",
+      "X3",
+      "Serie 1"
+    ],
+    "Chevrolet": [
+      "Onix",
+      "Tracker",
+      "Equinox",
+      "Cruze",
+      "Spark"
+    ],
+    "Citroën": [
+      "C3",
+      "C4 Cactus",
+      "C5 Aircross",
+      "Berlingo",
+      "C-Elysée"
+    ],
+    "DS": [
+      "DS 7 Crossback",
+      "DS 4",
+      "DS 3 Crossback",
+      "DS 9",
+      "DS 5"
+    ],
+    "Fiat": [
+      "Argo",
+      "Toro",
+      "Mobi",
+      "Cronos",
+      "Uno"
+    ],
+    "Ford": [
+      "EcoSport",
+      "Fiesta",
+      "Kuga",
+      "Ranger",
+      "Ka"
+    ],
+    "Honda": [
+      "HR-V",
+      "Civic",
+      "CR-V",
+      "City",
+      "WR-V"
+    ],
+    "Hyundai": [
+      "Creta",
+      "Grand i10",
+      "Santa Fe",
+      "Tucson",
+      "i30"
+    ],
+    "Jeep": [
+      "Renegade",
+      "Compass",
+      "Wrangler",
+      "Cherokee",
+      "Grand Cherokee"
+    ],
+    "Kia": [
+      "Rio",
+      "Sportage",
+      "Seltos",
+      "Cerato",
+      "Picanto"
+    ],
+    "Land Rover": [
+      "Range Rover Evoque",
+      "Discovery Sport",
+      "Defender",
+      "Range Rover Velar",
+      "Discovery"
+    ],
+    "Mazda": [
+      "CX-5",
+      "Mazda3",
+      "CX-3",
+      "CX-9",
+      "MX-5 Miata"
+    ],
+    "Mercedes-Benz": [
+      "Clase C",
+      "GLC",
+      "Clase A",
+      "Clase B",
+      "GLA"
+    ],
+    "Mini": [
+      "Cooper",
+      "Countryman",
+      "Clubman",
+      "Cooper S",
+      "John Cooper Works"
+    ],
+    "Mitsubishi": [
+      "L200",
+      "Montero Sport",
+      "Outlander",
+      "ASX",
+      "Eclipse Cross"
+    ],
+    "Nissan": [
+      "Kicks",
+      "Versa",
+      "Sentra",
+      "March",
+      "X-Trail"
+    ],
+    "Peugeot": [
+      "2008",
+      "208",
+      "3008",
+      "301",
+      "408"
+    ],
+    "Renault": [
+        "Kwid",
+        "Logan",
+        "Sandero",
+        "Captur",
+        "Duster"
+      ],
+      "SEAT": [
+        "Ibiza",
+        "Leon",
+        "Ateca",
+        "Arona",
+        "Tarraco"
+      ],
+      "Suzuki": [
+        "Swift",
+        "Dzire",
+        "Vitara",
+        "Jimny",
+        "S-Cross"
+      ],
+      "Toyota": [
+        "Yaris",
+        "Corolla",
+        "Rav4",
+        "Hilux",
+        "Fortuner"
+      ],
+      "Volkswagen": [
+        "Up!",
+        "Gol",
+        "Virtus",
+        "T-Cross",
+        "Tiguan"
+      ]
+    
+}

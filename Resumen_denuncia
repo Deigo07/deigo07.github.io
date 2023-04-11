@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resumen de Denuncia</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<img src="logo_seguros.png" alt="Logo de Seguros" class="logo">
+		<h1>Resumen de Denuncia</h1>
+	</header>
+	<main>
+		<div class="summary">
+			<p>Se ha registrado la denuncia por el siguiente incidente:</p>
+			<ul>
+				<li><strong>Marca:</strong> <span id="marca"></span></li>
+				<li><strong>Modelo:</strong> <span id="modelo"></span></li>
+				<li><strong>Placa:</strong> <span id="placa1"></span> <span id="placa2"></span></li>
+				<li><strong>Fecha del incidente:</strong> <span id="fecha"></span></li>
+				<li><strong>Lugar del incidente:</strong> <span id="lugar"></span></li>
+				<li><strong>Descripción del incidente:</strong> <span id="descripcion"></span></li>
+			</ul>
+		</div>
+		<div class="image">
+			<img src="vehiculo_chocado.jpg" alt="Vehículo chocado" class="car-image">
+		</div>
+	</main>
+</body>
+</html>

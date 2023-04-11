@@ -1,1 +1,134 @@
-[  "Toyota",  "Honda",  "Nissan",  "Ford",  "Chevrolet",  "BMW",  "Mercedes-Benz",  "Audi",  "Volkswagen",  "Hyundai",  "Kia",  "Mazda",  "Subaru",  "Mitsubishi",  "Lexus",  "Volvo",  "Peugeot",  "Renault",  "Fiat",  "Jeep"]
+{
+    "marcas": [
+      {
+        "nombre": "Alfa Romeo"
+      },
+      {
+        "nombre": "Audi"
+      },
+      {
+        "nombre": "BMW"
+      },
+      {
+        "nombre": "Changan"
+      },
+      {
+        "nombre": "Chery"
+      },
+      {
+        "nombre": "Chevrolet"
+      },
+      {
+        "nombre": "Citroën"
+      },
+      {
+        "nombre": "DFSK"
+      },
+      {
+        "nombre": "Dacia"
+      },
+      {
+        "nombre": "Daihatsu"
+      },
+      {
+        "nombre": "Dodge"
+      },
+      {
+        "nombre": "Fiat"
+      },
+      {
+        "nombre": "Ford"
+      },
+      {
+        "nombre": "GAC"
+      },
+      {
+        "nombre": "Geely"
+      },
+      {
+        "nombre": "Great Wall"
+      },
+      {
+        "nombre": "Haval"
+      },
+      {
+        "nombre": "Honda"
+      },
+      {
+        "nombre": "Hyundai"
+      },
+      {
+        "nombre": "Isuzu"
+      },
+      {
+        "nombre": "JAC"
+      },
+      {
+        "nombre": "Jeep"
+      },
+      {
+        "nombre": "Kia"
+      },
+      {
+        "nombre": "Land Rover"
+      },
+      {
+        "nombre": "Lexus"
+      },
+      {
+        "nombre": "Mahindra"
+      },
+      {
+        "nombre": "Mazda"
+      },
+      {
+        "nombre": "Mercedes-Benz"
+      },
+      {
+        "nombre": "MG"
+      },
+      {
+        "nombre": "Mini"
+      },
+      {
+        "nombre": "Mitsubishi"
+      },
+      {
+        "nombre": "Nissan"
+      },
+      {
+        "nombre": "Peugeot"
+      },
+      {
+        "nombre": "RAM"
+      },
+      {
+        "nombre": "Renault"
+      },
+      {
+        "nombre": "Seat"
+      },
+      {
+        "nombre": "Skoda"
+      },
+      {
+        "nombre": "SsangYong"
+      },
+      {
+        "nombre": "Subaru"
+      },
+      {
+        "nombre": "Suzuki"
+      },
+      {
+        "nombre": "Toyota"
+      },
+      {
+        "nombre": "Volkswagen"
+      },
+      {
+        "nombre": "Volvo"
+      }
+    ]
+  }
+  
